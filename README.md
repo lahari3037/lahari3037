@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving real world applications using Dat engineering
 - 🌱 I’m currently learning LlmOps, MlOps, Data engineering
 - 💞️ I’m looking to collaborate on any challenging and interesting data realted problems
-- 📫 How to reach me mail@:- laharireddy3037@gmail.com
+- 📫 How to reach me mail@:- laharireddy3037@gmail.com, linkedin@: https://www.linkedin.com/in/laharireddy3037/
 
 <!---
 lahari3037/lahari3037 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
